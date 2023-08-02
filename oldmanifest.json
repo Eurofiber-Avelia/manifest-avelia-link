@@ -1,0 +1,43 @@
+{
+  "manifestVersion": "0.1",
+  "version": "1.0.0",
+  "id": "avelia-link",
+  "packageName": "com.avelia.avelia-link",
+  "name": {
+    "short": "avelia-link",
+    "full": "avelia-link-plugin"
+  },
+  "description": {
+    "short": "Add avelia-link cti into wazo",
+    "full": "Add avelia-link cti into wazo"
+  },
+  "icons": {
+    "color": "https://fr.m.wikipedia.org/wiki/Fichier:Cat_%28113020%29_-_The_Noun_Project.svg",
+    "outline": "https://fr.m.wikipedia.org/wiki/Fichier:Cat_%28113020%29_-_The_Noun_Project.svg"
+  },
+  "developer": {
+    "name": "avelia dev team",
+    "websiteUrl": "https://www.avelia.fr/"
+  },
+  "staticTabs": [
+    {
+      "entityId": "cti",
+      "context": [
+        "generalTab",
+        "userTab",
+        "phonebookTab"
+      ],
+      "name": "cti",
+      "contentUrl": "https://recapp.ait-services.net/"
+    }
+  ],
+  "localizationInfo": {
+    "defaultLanguageTag": "en",
+    "additionalLanguages": [
+      {
+        "languageTag": "fr",
+        "file": "fr.json"
+      }
+    ]
+  }
+}
