@@ -23,10 +23,9 @@
       "context": [
         "sidebarTab"
       ],
-      "name": "Sidebar color",
-      "contentUrl": "./tab.html",
+      "name": "Avelia Link",
+      "contentUrl": "./build/index.html",
       "icon": "./tab.svg"
     }
-  ],
-  "backgroundScript": "./background.js"
+  ]
 }

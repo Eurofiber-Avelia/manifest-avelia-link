@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "./static/css/main.34863f4e.css",
+    "main.js": "./static/js/main.ee107262.js",
+    "static/js/787.593026f1.chunk.js": "./static/js/787.593026f1.chunk.js",
+    "static/media/norway-winter.jpg": "./static/media/norway-winter.51e1046082f51837760c.jpg",
+    "static/media/logo-avelia-blanc.png": "./static/media/logo-avelia-blanc.a4fc7fcaa2a83f60e764.png",
+    "index.html": "./index.html"
+  },
+  "entrypoints": [
+    "static/css/main.34863f4e.css",
+    "static/js/main.ee107262.js"
+  ]
+}
